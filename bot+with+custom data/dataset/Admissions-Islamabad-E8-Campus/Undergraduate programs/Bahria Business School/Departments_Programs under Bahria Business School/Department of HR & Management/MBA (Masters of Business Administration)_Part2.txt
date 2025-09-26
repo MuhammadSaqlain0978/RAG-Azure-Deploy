@@ -1,0 +1,194 @@
+MBA – Elective Courses
+Marketing
+
+MKT 610 – International Marketing
+
+MKT 655 – Services Marketing
+
+MKT 660 – Strategic Marketing
+
+MKT 665 – Cases in Marketing
+
+MKT 635 – New Product Development
+
+MKT 662 – Brand Management
+
+MKT 688 – Social Media Marketing
+
+MKT 691 – Consumer Behavior and Psychology
+
+MKT 620 – Marketing Research
+
+MKT 690 – Integrated Marketing Communication
+
+MKT 650 – Sales Management
+
+MKT 693 – B2B and Personal Selling
+
+MKT 663 – Promotion and Advertising Management
+
+MKT 689 – Digital Marketing
+
+MKT 691 – Retail and Sales Management
+
+MKT 692 – Export Marketing
+
+MKT 693 – Marketing Issues in Pakistan
+
+MKT 694 – Public Rationing and Relationship Marketing
+
+MKT 695 – Agriculture Marketing
+
+MKT 603 – Product Management
+
+MKT 604 – Distribution Management
+
+MKT 605 – Digital Analytics
+
+MKT 606 – Electronic CRM
+
+MKT 697 – Social Marketing
+
+MKT 681 – Copywriting Concepts, Protocols and Practices
+
+Human Resource Management (HRM)
+
+HRM 666 – Negotiations and Conflict Management
+
+HRM 648 – Organizational Development
+
+HRM 676 – International Human Resource Management
+
+HRM 677 – Seminars in HRM
+
+HRM 689 – Recruitment and Selection
+
+HRM 679 – Performance Management
+
+HRM 690 – HRM and HRD
+
+HRM 691 – Career Planning and Strategic Compensation Management
+
+HRM 660 – Training and Development
+
+HRM 670 – HR Planning
+
+HRM 664 – Job Analysis and Design
+
+HRM 649 – HR Research Methods
+
+HRM 682 – Industrial Relations and Employment Laws
+
+HRM 671 – HR Information Systems
+
+HRM 681 – Strategic HRM
+
+HRM 665 – HR Theory and Practice
+
+HRM 692 – Organizational Psychology
+
+Finance
+
+FIN 461 – Fundamentals of Behavioral Finance
+
+FIN 690 – Financial Modeling
+
+FIN 691 – Strategic Finance
+
+FIN 612 – Analysis of Financial Statements
+
+FIN 619 – Financial Derivatives
+
+FIN 611 – Corporate Finance
+
+FIN 692 – Financial Markets and Institutions
+
+FIN 693 – Cases in Corporate Finance
+
+FIN 694 – Money and Banking
+
+FIN 695 – Investment Analysis and Portfolio Management
+
+FIN 635 – Management Corporate Turnaround
+
+FIN 696 – Financial Reporting
+
+FIN 697 – Taxation and Auditing
+
+ACC 622 – Accounting Information Systems
+
+FIN 682 – Corporate Restructuring
+
+FIN 688 – Islamic Finance Theory and Practices
+
+FIN 649 – Islamic Banking and Finance
+
+ACC 609 – Corporate Law
+
+ACC 608 – Advanced Corporate Reporting
+
+FIN 649 – Financial Institution Management
+
+FIN 600 – Entrepreneurial Finance
+
+FIN 601 – Debt Capital Markets
+
+FIN 608 – Mutual and Pension Funds
+
+FIN 604 – Equity Capital Markets
+
+FIN 665 – Behavioral Finance and Wealth Management
+
+FIN 625 – Commodities and Derivatives Markets
+
+Entrepreneurship
+
+ENT 602 – Cases in Entrepreneurship
+
+ENT 603 – Developing New Products and Services
+
+ENT 620 – Entrepreneurial Strategy in Emerging Markets
+
+ENT 606 – Innovations and Entrepreneurship
+
+ENT 607 – Managing Entrepreneurial Firms
+
+ENT 608 – Social Responsibility and Entrepreneurship
+
+ENT 622 – Business Growth and Entrepreneurial Finance
+
+ENT 612 – Entrepreneurial Marketing
+
+ENT 613 – Organizations and Leading Change
+
+ENT 614 – Economics of Location and Transportation
+
+ENT 621 – Retailing and International Entrepreneurship
+
+ENT 617 – Corporate Entrepreneurship
+
+ENT 619 – Technology Entrepreneurship
+
+Management Information Systems (MIS)
+
+MIS 655 – Database Management System
+
+MIS 620 – System Analysis and Design
+
+MIS 679 – Enterprise Resource Planning (ERP) Implementation
+
+MIS 672 – Web Application Development
+
+MIS 625 – Business Process Re-Engineering
+
+MIS 680 – Data Communication and Networking
+
+MIS 681 – Information Security and System Auditing
+
+MIS 657 – Knowledge Management Systems and Technologies
+
+MIS 658 – Business Intelligence and Decision Support
+
+MIS 608 – Digital Analytics
+
+MKT 607 – Electronic CRM
