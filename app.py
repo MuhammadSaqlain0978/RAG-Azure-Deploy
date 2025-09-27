@@ -34,7 +34,7 @@ bot = None
 def initialize_rag_bot():
     global bot
     try:
-        api_key = os.getenv("MISTRAL_API_KEY")
+        api_key = "3XroHID0PrEB4ouyEhBA9R60yzLIV8lf"
         if not api_key:
             raise ValueError("MISTRAL_API_KEY not set")
         
