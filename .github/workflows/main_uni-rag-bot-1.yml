@@ -22,7 +22,7 @@ jobs:
       - name: Set up Python version
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.11'
 
       - name: Create and start virtual environment
         run: |
@@ -30,7 +30,7 @@ jobs:
           source venv/bin/activate
       
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r "bot+with+custom data/requirements.txt"
         
       # Optional: Add step to run tests here (PyTest, Django test suites, etc.)
 
@@ -70,3 +70,6 @@ jobs:
           slot-name: 'Production'
 
           
+
+
+
